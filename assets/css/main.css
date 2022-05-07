@@ -2303,27 +2303,27 @@ input, select, textarea {
 		}
 
 		.icon.style1:before {
-			color: #c3e895;
+			color: #f4f5f1;
 		}
 
 		.icon.style2:before {
-			color: #8addaa;
+			color: #bb6c2b;
 		}
 
 		.icon.style3:before {
-			color: #6bd4c8;
+			color: #bb6c2b;
 		}
 
 		.icon.style4:before {
-			color: #57aed3;
+			color: #f4f5f1;
 		}
 
 		.icon.style5:before {
-			color: #4a87d3;
+			color: #f4f5f1;
 		}
 
 		.icon.style6:before {
-			color: #6b88e6;
+			color: #cf33ad;
 		}
 
 		.icon.major {
@@ -2828,7 +2828,7 @@ input, select, textarea {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay2.png"), url("../../images/header.jpg");
+			background-image: url("images/overlay2.png"), url("../../images/cody-chan-1VPoVeKGSWc-unsplash.jpg");
 			background-size: auto,							cover;
 		}
 
@@ -2913,6 +2913,7 @@ input, select, textarea {
 			}
 
 /* Header */
+/* linear-gradient(45deg, #bb6c2b 15%, #7e4829 30%, #6122c5) */
 
 	#header {
 		padding: 9em 0 9em 0 ;
