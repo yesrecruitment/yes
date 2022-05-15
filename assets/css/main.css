@@ -2046,7 +2046,7 @@ input, select, textarea {
 			height: 1px;
 			margin-top: 1.5em;
 			width: 6em;
-		}
+		} 
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
 			margin: 0;
@@ -3030,15 +3030,15 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
-			#header .actions:after {
+			/* #header .actions:after {
 				background: #ffffff;
 				content: '';
 				height: 100vh;
 				left: 50%;
 				position: absolute;
 				top: 100%;
-				width: 1px;
-			}
+				width: 1px; */
+			/* } */
 
 		#header .inner {
 			-moz-transition: -moz-transform 1.5s ease, opacity 2s ease;
