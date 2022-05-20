@@ -1,6 +1,10 @@
 /* Header */
 /* linear-gradient(45deg, #bb6c2b 15%, #7e4829 30%, #6122c5) */
 
+html {
+    scroll-behavior: smooth;
+}
+
 #header_services {
     padding: 9em 0 9em 0 ;
     background-color: #4686a0;
