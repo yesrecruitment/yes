@@ -15,6 +15,9 @@ html {
     transform: translate(-50%, -50%);
 }
 
+.center-text {
+    text-align: center;
+}
 
 #header_services {
     padding: 9em 0 9em 0 ;
